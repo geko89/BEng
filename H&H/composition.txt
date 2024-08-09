@@ -1,0 +1,3 @@
+
+0	pd dsp 1; hu_bank1 25; hu_bank2 25; hu_bank3 250; hu_bank4 250; hu_bank5 25; hu_bank6 25; hu_tempo 2000; hu_gliss 20; hu_del_mix 0.48; hu_del_t 0.46; hu_del_Q 0.62; hu_duty 100; hu_dim 100; hu_curve 2; hu_mode_a 1; hu_a_down 1; hu_scale 2; hu_spread 3; hu_env 1; ho_freq1 9.25; ho_slew1 10; ho_chaos1 0.015748; ho_freq2 79.5; ho_slew2 10; ho_chaos2 0.440945; ho_index 0.964567; ho_cutoff 61; ho_Q 1.62756; ho_slew3 750.551; ho_chaos3 0.889764; ho_del_mix 0.267717; ho_del_t 0.14252; ho_del_Q 0; ho_rev 0.362205; ho_pan 0.484252; 
+60000 hu_mode_m 1; hu_del_mix 0; hu_del_Q 0; ho_cutoff 0; ho_del_mix 0; ho_chaos3 0; 
