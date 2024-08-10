@@ -1,2 +1,34 @@
-Milne control 
-Sedra and Smith
+CONTROL
+
+Control Systems Engineering by Norman S. Nise (not acquired)
+
+ANALOGUE
+
+Microelectronic Circuits by Sedra and Smith (not acquired)
+
+Electronic Devices and Circuit Theory by  Boylestad Nashelsky (not acquired)
+
+E&M
+
+Fundamentals of Applied Electromagnetics by Ulaby (not acquired)
+
+Eugene's notes (not acquired)
+
+NANO
+
+
+
+PROGRAMMING
+
+C Programming 2e: A Modern Approach by K N King
+
+MATHS
+
+Engineering Mathematics by Stroud (not acquired)
+
+Advanced Engineering Mathematics by Stroud (not acquired)
+
+
+
+
+
